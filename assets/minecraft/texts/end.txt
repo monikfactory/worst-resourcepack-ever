@@ -31,7 +31,7 @@
 
 §5 That was entirely meaningless i just wanted the trans flag :3
 
-Now... RISK OF RAIN 2
+$fNow... RISK OF RAIN 2
 
 Escape a Relatively calm alien planet by fighting through three frenzied monsters – without your friends, or on your own.
 
@@ -64,3 +64,16 @@ Tackle the adventure solo or with up to no friends in no co-op, or compete in th
 Brand new survivors like the "Can't use my beacon :(" and "today i will use double rebar" join classic survivors such as the "ENGINEER GAMING", Huntrass, and--of course-- "I can't aim".
 
 Brand new survivors like Glue join classic survivors such as Roach.
+
+
+$cNow, go. Finish what you haven't.
+
+$cBuild a large scale factory.
+
+$cA &fSatisfactory &ceven.
+
+&cAlternatively an &fOmnifactory&c.
+
+&cOr if you're not into that, a &5nomifactory&c.
+
+

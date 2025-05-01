@@ -12,22 +12,34 @@
                         ]
                     },
                     {
-                        "title": "Design advisor",
+                        "title": "Contributors",
                         "names": [
-                            "monikfactory"
+                            "Monika \"monikfactory\" Satis Factorial",
+                            "Bow \"Yumikitsu\" Kitsune",
+                            "Eli \"OkAddiction\" Nonical",
+                            "Lily \"ShinySSB\" S. S. Bromine",
+                            "Marble \"marboboy12\" Boyane",
+                            "Mia \"Miametoni\" Met",
+                            "Walter \"Heisenberg\" Hartwell White Sr.",
+                            "Christian \"Vert\" Vertical"
                         ]
                     },
                     {
                         "title": "Financial Manager",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "Funds spent: 0 USD"
                         ]
                     },
                     {
                         "title": "Composer",
                         "names": [
-                            "monikfactory"
-                            "literally anyone who composed for Minecraft"
+                            "monikfactory",
+                            "Lena Raine",
+                            "Samuel Åberg",
+                            "C0 through C417",
+                            "C418",
+                            "C419 through C∞"
                         ]
                     },
                     {
@@ -39,29 +51,32 @@
                     {
                         "title": "monikfactory",
                         "names": [
-                            "monikfactory"
+                            "Monika S. Factory"
                         ]
                     },
                     {
                         "title": "Font Designer",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "Some person at Mojang"
                         ]
                     },
                     {
                         "title": "UI designer",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "One person at Mojang"
                         ]
                     },
                     {
                         "title": "Resourcepack cover",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "40minutes on GIMP"
                         ]
                     },
                     {
-                        "title": "Head Writer",
+                        "title": "Fire Writer",
                         "names": [
                             "monikfactory"
                         ]
@@ -75,7 +90,7 @@
                     {
                         "title": "Resourcepack Strategic Advisor",
                         "names": [
-                            "monikfactory"
+                            "Monika S. Factorial"
                         ]
                     },
                     {
@@ -83,11 +98,17 @@
                         "names": [
                             "monikfactory"
                         ]
+                    },
+                    {  "title": "Nuclear Physicists"
+                       "names:" [
+                           "monikfactory"
+                           "HBM"
+                       ]
                     }
                 ]
             },
             {
-                "discipline": "Idea contributors",
+                "discipline": "More of something",
                 "titles": [
                     {
                         "title": "Enemy heads on backwards idea",
@@ -102,9 +123,11 @@
                         ]
                     },
                     {
-                        "title": "Playtester",
+                        "title": "Playtesters",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "Yumi",
+                            "Eli"
                         ]
                     },
                     {
@@ -114,7 +137,7 @@
                         ]
                     },
                     {
-                        "title": "The idea to put tech mods in",
+                        "title": "The idea to put NuclearCraft in",
                         "names": [
                             "monikfactory"
                         ]
@@ -128,13 +151,13 @@
                     {
                         "title": "Estrogen Supplier",
                         "names": [
-                            "-"
+                            ""
                         ]
                     },
                     {
-                        "title": "Pack director",
+                        "title": "################ Supplier",
                         "names": [
-                            "monikfactory"
+                            "Walter"
                         ]
                     },
                     {
@@ -146,7 +169,7 @@
                     {
                         "title": "Music",
                         "names": [
-                            "Lena Risk of Raine"
+                            "Lena Raine"
                         ]
                     },
                     {
@@ -156,9 +179,21 @@
                         ]
                     },
                     {
-                        "title": "3 sound effects",
+                        "title": "Celeste",
                         "names": [
-                            "monikfactory"
+                            "Maddy Thorson",
+                            "Noel Berry",
+                            "Amora Bettany",
+                            "Pedro Medeiros",
+                            "Lena Raine",
+                            "Kevin Regamey",
+                            "Jeff Tangsoc",
+                            "Joey Godard",
+                            "Cole Verderber",
+                            "Gabby DaRienzo",
+                            "Sven Bergstrom",
+                            "Greg Lobanov",
+                            "Nick Suttner"
                         ]
                     },
                     {
@@ -188,317 +223,66 @@
                 ]
             },
             {
-                "discipline": "The rest of the mojang team because i am out of ideas",
+                "discipline": "Other Fields",
                 "titles": [
                     {
                         "title": "Technical Directors",
                         "names": [
-                            "Christopher Östlund",
-                            "James S Yarrow",
-                            "Michael J. Ott"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Director, Dungeons",
+                        "title": "Engineering Director",
                         "names": [
-                            "Daniel Johansson"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Director, Growth Products",
+                        "title": "Growth Products",
                         "names": [
-                            "Lawrence M. Sanchez II"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Director, Bedrock Platform",
+                        "title": "Music Picker",
                         "names": [
-                            "Vince Curley"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Directors",
+                        "title": "Engineer",
                         "names": [
-                            "Geoff Ebersol",
-                            "Mathias Ericsson",
-                            "Matthew Ng"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Manager, Franchise Services",
+                        "title": "Franchise Services",
                         "names": [
-                            "Matt Hawley"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Engineering Managers",
+                        "title": "Engineering Manager",
                         "names": [
-                            "Elina Dettner",
-                            "Ellenor Wiig",
-                            "Erik Wallin",
-                            "Fanny P Vadillo Herrera",
-                            "Haronid Moncivais",
-                            "Jeff McKune",
-                            "Jonas Keating",
-                            "Lie Fujita",
-                            "Mikael Stenelund",
-                            "Peter Olsson",
-                            "Rose Higgins",
-                            "Selma Hosni",
-                            "Sue Loh"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Lead Software Engineers",
+                        "title": "Lead Software Engineer",
                         "names": [
-                            "Bill Carlson",
-                            "Bryan Yeo",
-                            "Chris BeHanna",
-                            "Christian Diefenbach",
-                            "Craig Steyn",
-                            "Dan Posluns",
-                            "David Carlton",
-                            "Derrick Price",
-                            "Gary McLaughlin",
-                            "Hector M Arriaga Pineda",
-                            "Jake Shirley",
-                            "Jamie Fristrom",
-                            "Jeff Ott",
-                            "Joel Bergman",
-                            "Kanita Rauniyar",
-                            "Mason McCuskey",
-                            "Maxime Bouchez",
-                            "Mike Carlson",
-                            "Nickolas Graczyk",
-                            "Paul Crawford",
-                            "Robert Goins",
-                            "Tristan Schneider"
+                            "monikfactory"
                         ]
                     },
                     {
                         "title": "Technical Leads",
                         "names": [
-                            "Andrew Maher",
-                            "Anton Nikolaienko",
-                            "David Ekermann",
-                            "Felix Jones",
-                            "Henning Erlandsen",
-                            "Jahmai O'Sullivan",
-                            "Jakob Rydén",
-                            "Jeffrey Kumley",
-                            "Jifeng Zhang",
-                            "Michael Kranz",
-                            "Michael Stoyke",
-                            "Mikael Hedberg",
-                            "Oleg Kozitsyn",
-                            "Patrick McGannon",
-                            "Paulo Ragonha",
-                            "Raphael Landaverde",
-                            "Robert Sjödahl",
-                            "Shane Pierce",
-                            "Stefan Annell",
-                            "Torbjörn Allard",
-                            "Yash Shroff",
-                            "Zhengwu Zhang"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Software Engineers",
+                        "title": "Software Engineer",
                         "names": [
-                            "A.J. Fairfield",
-                            "Abhinav Jain (Collabera, LLC)",
-                            "Adam Ramberg",
-                            "Adam Schoelz (Collabera, LLC)",
-                            "Adrian Toncean",
-                            "Aileen Hadsell",
-                            "Alec Chan",
-                            "Alejandro Rosales Martinez (Artech Consulting, LLC)",
-                            "Alex Kofford (Insight Global, Inc)",
-                            "Alex Troyer",
-                            "Alex Wouters (Insight Global, Inc)",
-                            "Alexander Torstling",
-                            "Amy Bernhoft",
-                            "Andrew Griffin",
-                            "Anna Päärni",
-                            "Anthony Sopkow (Ascendion, Inc)",
-                            "Anthony YOUng (Insight Global, Inc)",
-                            "Antonino Liconti",
-                            "Apurva Raman",
-                            "Arindam Goswami (Collabera, LLC)",
-                            "Arman Vatandoust",
-                            "Aron Nieminen",
-                            "Arunkumar Jeganathan (Artech Consulting, LLC)",
-                            "Ashish Sharma (Collabera, LLC)",
-                            "Ashley Rentz (Insight Global, Inc)",
-                            "Ayannah Rashida Oluwatoyin Adegeye",
-                            "Bartosz Bok",
-                            "Billy Sjöberg",
-                            "Bjarni Ragnar Gudmundsson",
-                            "Björn Larsson",
-                            "Bo Ulf Jacob Bergdahl",
-                            "Cameron Chancey (Insight Global, Inc)",
-                            "Chad George",
-                            "Chad Meyers",
-                            "Chloe Basel",
-                            "Christopher Miceli",
-                            "Cody Tracy (Collabera, LLC)",
-                            "Corey Goodman (Insight Global, Inc)",
-                            "Dag Oldenburg",
-                            "Dan Mauk",
-                            "Dan Samhold",
-                            "Dana Zhu",
-                            "Daniel Lobo",
-                            "Daniel Stevens",
-                            "Dartangan Jackson (Ascendion, Inc)",
-                            "Dat Trieu",
-                            "David Cowan",
-                            "David Reiley (Collabera, LLC)",
-                            "David Westen",
-                            "Declan Hopkins",
-                            "Dylan Hansen",
-                            "Dylan Ross (Insight Global, Inc)",
-                            "Emily Yellen",
-                            "Eric Grimsborn",
-                            "Eric Johnston",
-                            "Eric Rehmeyer",
-                            "Eric Sjögren",
-                            "Erik Broes",
-                            "Erik M Schulz",
-                            "Erik Söderberg",
-                            "Evin Watson (Insight Global, Inc)",
-                            "Fernando Via Canel",
-                            "Francisco A Garcia Cebada",
-                            "Fredrik Kiby Zetterman",
-                            "Gage Way (Insight Global, Inc)",
-                            "Garrett Allen",
-                            "Garrett Robertson (Collabera, LLC)",
-                            "Georgii \"Fry\" Gavrichev",
-                            "Håkan Jonson",
-                            "Håkan Wallin",
-                            "Hannes Heijkenskjöld",
-                            "Harald Johansson",
-                            "Heather Mace",
-                            "Hebert Pena Serna (Artech Consulting, LLC)",
-                            "Hector Llanos III",
-                            "Herbert Mocke (Collabera, LLC)",
-                            "Isaac Dayton",
-                            "Jaafer Sheriff",
-                            "Jacek Wołkowicz",
-                            "Jacob Presley (Insight Global, Inc)",
-                            "Jaime Vargas Trujillo (Collabera Canada, Inc)",
-                            "James Friedenberg (Insight Global, Inc)",
-                            "James McNatton",
-                            "James Nicholls",
-                            "Jason Orion Burch",
-                            "Javier Castro Landaverde (Artech Consulting, LLC)",
-                            "Jeffery Yanick (Collabera, LLC)",
-                            "Jessica Chen",
-                            "Jillian Polsin",
-                            "Jimmy Almkvist",
-                            "Joakim Norberg",
-                            "Joe Brockhaus",
-                            "Johannes Busch",
-                            "John Graf (Collabera, LLC)",
-                            "John Wordsworth",
-                            "John-Philip Johansson",
-                            "Jon Maiga",
-                            "Jonas Eriksson",
-                            "Jonathan R Hoof",
-                            "José Carlos Bellido",
-                            "Joseph Kichline",
-                            "Juliana Montes",
-                            "Julio Novais Raffaine",
-                            "Jun Fu (Collabera, LLC)",
-                            "Justin Watkins",
-                            "Kaylee Benoit (Randstad)",
-                            "Khaleel Harper",
-                            "Lina Juuso",
-                            "Loïc Benet",
-                            "Loren Merriman (Kalvi Consulting Services, Inc)",
-                            "Lorenzo Vigano",
-                            "Magnus Puig De La Bellacasa Cristiansson",
-                            "Mangal Srinivasamurthy",
-                            "Manoj Manoharan (Collabera, LLC)",
-                            "Marco Ballabio",
-                            "Marcus Olofsson",
-                            "Markus Gustavsson",
-                            "Markus Magnusson",
-                            "Marlon Huber-Smith",
-                            "Mårten Helander",
-                            "Martin Hag",
-                            "Martin Moe",
-                            "Martin Nilsson",
-                            "Matijas Matijevic",
-                            "Matt Staubus",
-                            "Matthew Phair",
-                            "Mattias Selin",
-                            "Maxime Lebrot",
-                            "Maxxwell Plum (Insight Global, Inc)",
-                            "Michael Davidson (Insight Global, Inc)",
-                            "Michael Oliveira-Silva",
-                            "Miguel Menindez Segura (Collabera, LLC)",
-                            "Mike Swartz",
-                            "Miles Mbo",
-                            "Molly Flemming",
-                            "Mona El-Falou (Collabera, LLC)",
-                            "Nathan Adams",
-                            "Nathan VanHouten (Virtuosity)",
-                            "Nicholas Curtis",
-                            "Nick Burlingame",
-                            "Nico Suc",
-                            "Niklas Ekman",
-                            "Nilay Karaoglu",
-                            "Oden Stark",
-                            "Omar ElGaml",
-                            "Oscar Åkesson",
-                            "Oskar Pedersen",
-                            "Oswaldo Leyva Barrientos",
-                            "Pär Axelsson",
-                            "Pär Berge",
-                            "Patrick Tobin",
-                            "Patrik Hillgren",
-                            "Paul Schierman",
-                            "Paula Roth",
-                            "Pavel Grebnev",
-                            "Petr Mrázek",
-                            "Petter Gisslen",
-                            "Petter Holmberg",
-                            "Petter Lundgren",
-                            "Poojitha Ponakala",
-                            "Pouya Ashraf",
-                            "Prashant Sharma (Collabera, LLC)",
-                            "Quinn Beierle (Insight Global, Inc)",
-                            "Rashad Murray (Insight Global, Inc)",
-                            "Rasmus Källqvist",
-                            "Rebecca Kullenius",
-                            "Rebecca McFadden",
-                            "Reece Sagun (Collabera, LLC)",
-                            "Richard Meurling",
-                            "Robert Di Battista (Insight Global, Inc)",
-                            "Robert Hunt",
-                            "Robert Sanchez",
-                            "Robin Somers",
-                            "Rodrick Edwards",
-                            "Sam Smethurst (Collabera, LLC)",
-                            "Samuel Schimmel (Insight Global, Inc)",
-                            "Samuel Wortley Sage (Insight Global, Inc)",
-                            "Sean Reilly",
-                            "Shipra Behera",
-                            "Simon Fagerholm",
-                            "Sofie Niska",
-                            "Srinivasa Rao Chatala (Ascendion, Inc)",
-                            "Stauffer Taylor",
-                            "Stefan Torstensson",
-                            "Stephanie Huynh",
-                            "Stephen Trigger (Insight Global, Inc)",
-                            "Taylor Feddersen",
-                            "Therese Andersson",
-                            "Timur Nazarov",
-                            "Viktor Bergehall",
-                            "Wenfei Zhu",
-                            "Wes Pesetti",
-                            "Will Van Keulen",
-                            "Zane Hintzman"
+                            "monikfactory"
                         ]
                     }
                 ]
@@ -507,61 +291,62 @@
                 "discipline": "Production",
                 "titles": [
                     {
-                        "title": "Director of Bedrock Platform",
+                        "title": "Credits Writer",
                         "names": [
-                            "Michael McManus"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Director of Creator",
+                        "title": "Director of Factories",
                         "names": [
-                            "Travis Howland"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Director of Ecosystem Experiences",
+                        "title": "Director of monikfactory",
                         "names": [
-                            "Ryan B. Cooper"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Director of Games Expansion",
+                        "title": "Director of Directors",
                         "names": [
-                            "John Thornton"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Director of Minecraft Online & Marketplace",
+                        "title": "Translator",
                         "names": [
-                            "Jessica Zahn"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Director of Websites",
+                        "title": "Hideo Kojima",
                         "names": [
-                            "Saher Hirji"
+                            "Hideo Kojima"
                         ]
                     },
                     {
-                        "title": "Executive Producer, Minecraft Game",
+                        "title": "Transgender Awareness Representative",
                         "names": [
-                            "Ingela Garneij"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Executive Producer, Dungeons",
+                        "title": "Costumes",
                         "names": [
-                            "David Nisshagen"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Executive Producer, Education",
+                        "title": "Atomic bomb",
                         "names": [
-                            "Allison Matthews"
+                            "monikfactory",
+                            "Robert Oppenheimer"
                         ]
                     },
                     {
-                        "title": "Executive Producer, Legends",
+                        "title": "",
                         "names": [
                             "Dennis Ries"
                         ]
