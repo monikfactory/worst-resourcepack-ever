@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nuclearcraft:block/ore/lithium_deepslate_ore"
+    }
+  }
+}

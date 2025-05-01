@@ -1,0 +1,39 @@
+{
+  "vertex": "nuclearcraft:blackhole_vertex",
+  "fragment": "nuclearcraft:blackhole_fragment",
+  "blend": {
+    "func": "add",
+    "srcrgb": "srcalpha",
+    "dstrgb": "1-srcalpha"
+  },
+  "sampler": [
+    {
+      "name": "textureSampler",
+      "file": "minecraft:textures/atlas/blocks.png"
+    }
+  ],
+  "attributes": [
+    "Position",
+    "UV0"
+  ],
+  "uniforms": [
+    {
+      "name": "time",
+      "type": "float",
+      "count": 1,
+      "values": [0.0]
+    },
+    {
+      "name": "blockPosition",
+      "type": "vec3",
+      "count": 3,
+      "values": [0.0, 0.0, 0.0]
+    },
+    {
+      "name": "playerPosition",
+      "type": "vec3",
+      "count": 3,
+      "values": [0.0, 0.0, 0.0]
+    }
+  ]
+}

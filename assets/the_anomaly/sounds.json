@@ -1,0 +1,134 @@
+{
+  "anomalyspawn": {
+    "subtitle": "subtitles.anomalyspawn",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_spawn_new",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyjumpscare1": {
+    "subtitle": "subtitles.anomalyjumpscare1",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_jumpscare1_new",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyscream": {
+    "subtitle": "subtitles.anomalyscream",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_scream1",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_scream2",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyambient": {
+    "subtitle": "subtitles.anomalyambient",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_ambient1",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "anomalystep": {
+    "subtitle": "subtitles.anomalystep",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_step1",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_step2",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_step3",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyambientcalm": {
+    "subtitle": "subtitles.anomalyambientcalm",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_ambientcalm1",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_ambientcalm2",
+        "stream": false
+      }
+    ]
+  },
+  "anomalystepnew": {
+    "subtitle": "subtitles.anomalystepnew",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_stepnew1",
+        "stream": false
+      },
+      {
+        "name": "the_anomaly:anomaly_stepnew2",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyjumpscare2": {
+    "subtitle": "subtitles.anomalyjumpscare2",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_jumpscare2",
+        "stream": false
+      }
+    ]
+  },
+  "anomalydeath": {
+    "subtitle": "subtitles.anomalydeath",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_death",
+        "stream": false
+      }
+    ]
+  },
+  "anomalyexplode": {
+    "subtitle": "subtitles.anomalyexplode",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_explode",
+        "stream": false
+      }
+    ]
+  },
+  "moonexplode": {
+    "subtitle": "subtitles.moonexplode",
+    "sounds": [
+      {
+        "name": "the_anomaly:moon_explosion",
+        "stream": false
+      }
+    ]
+  },
+  "anomalydeceitfuldissapear": {
+    "subtitle": "subtitles.anomalydeceitfuldissapear",
+    "sounds": [
+      {
+        "name": "the_anomaly:anomaly_deceitful_dissapear",
+        "stream": false
+      }
+    ]
+  }
+}

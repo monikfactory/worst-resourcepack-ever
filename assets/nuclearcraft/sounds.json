@@ -1,0 +1,94 @@
+{
+  "tile.fusion_ready": {
+    "sounds": [
+      "nuclearcraft:block/fusion_ready"
+    ],
+    "subtitle": "sound_event.nuclearcraft.fusion.ready"
+  },
+  "tile.turbine": {
+    "sounds": [
+      "nuclearcraft:block/turbine"
+    ],
+    "subtitle": "sound_event.nuclearcraft.turbine"
+  },
+  "tile.fission_reactor": {
+    "sounds": [
+      "nuclearcraft:block/fission_reactor"
+    ],
+    "subtitle": "sound_event.nuclearcraft.fission_reactor"
+  },
+  "tile.fusion_charging": {
+    "sounds": [
+      "nuclearcraft:block/fusion_charging"
+    ],
+    "subtitle": "sound_event.nuclearcraft.fusion.charging"
+  },
+  "tile.fusion_running": {
+    "sounds": [
+      "nuclearcraft:block/fusion_running"
+    ],
+    "subtitle": "sound_event.nuclearcraft.fusion.running"
+  },
+  "fusion_switch": {
+    "sounds": [
+      "nuclearcraft:block/fusion_switch"
+    ],
+    "subtitle": "sound_event.nuclearcraft.fusion.switch"
+  },
+  "charge_energy": {
+    "sounds": [
+      "nuclearcraft:item/charge_energy"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.charged"
+  },
+  "geiger_1": {
+    "sounds": [
+      "nuclearcraft:item/geiger_1"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.geiger_1"
+  },
+  "geiger_2": {
+    "sounds": [
+      "nuclearcraft:item/geiger_2"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.geiger_2"
+  },
+  "geiger_3": {
+    "sounds": [
+      "nuclearcraft:item/geiger_3"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.geiger_3"
+  },
+  "geiger_4": {
+    "sounds": [
+      "nuclearcraft:item/geiger_4"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.geiger_4"
+  },
+  "geiger_5": {
+    "sounds": [
+      "nuclearcraft:item/geiger_5"
+    ],
+    "subtitle": "sound_event.nuclearcraft.item.geiger_5"
+  },
+  "music.wanderer": {
+    "category": "record",
+    "subtitle": "music.wanderer",
+    "sounds": [ { "name": "nuclearcraft:music/wanderer", "stream": true } ]
+  },
+  "music.end_of_the_world": {
+    "category": "record",
+    "subtitle": "music.end_of_the_world",
+    "sounds": [ { "name": "nuclearcraft:music/end_of_the_world", "stream": true } ]
+  },
+  "music.money_for_nothing": {
+    "category": "record",
+    "subtitle": "music.money_for_nothing",
+    "sounds": [ { "name": "nuclearcraft:music/money_for_nothing", "stream": true } ]
+  },
+  "music.hyperspace": {
+    "category": "record",
+    "subtitle": "music.hyperspace",
+    "sounds": [ { "name": "nuclearcraft:music/hyperspace", "stream": true } ]
+  }
+}
