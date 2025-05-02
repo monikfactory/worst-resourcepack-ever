@@ -1,6 +1,6 @@
 §2Please imagine the song from DOOM (1993) that plays on intermission screens
 
-§fRisk of Rain (-b±√(b²-4ac))/(2a): Post Production: Shadows Die Twice vs. Zombies May Cry: TD
+Risk of Rain (-b±√(b²-4ac))/(2a): Post Production: Shadows Die Twice vs. Zombies May Cry: TD
 §c"Finished"
 
 §cKills:                                       92%
@@ -25,13 +25,13 @@
 
 §b You aren't done yet.
 §d There is much more to do.
-§f Don't end it here.
+ Don't end it here.
 §d There are more demons to kill.
 §b And Nuclear Sirens to build
 
 §5 That was entirely meaningless i just wanted the trans flag :3
 
-$fNow... RISK OF RAIN 2
+§fNow... RISK OF RAIN 2
 
 Escape a Relatively calm alien planet by fighting through three frenzied monsters – without your friends, or on your own.
 
@@ -66,14 +66,14 @@ Brand new survivors like the "Can't use my beacon :(" and "today i will use doub
 Brand new survivors like Glue join classic survivors such as Roach.
 
 
-$cNow, go. Finish what you haven't.
+§cNow, go. Finish what you haven't.
 
-$cBuild a large scale factory.
+§cBuild a large scale factory.
 
-$cA &fSatisfactory &ceven.
+§cA §fSatisfactory §ceven.
 
-&cAlternatively an &fOmnifactory&c.
+§cAlternatively an §fOmnifactory&c.
 
-&cOr if you're not into that, a &5nomifactory&c.
+§cOr if you're not into that, a §5nomifactory&c.
 
 

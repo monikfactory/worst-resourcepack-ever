@@ -98,12 +98,6 @@
                         "names": [
                             "monikfactory"
                         ]
-                    },
-                    {  "title": "Nuclear Physicists"
-                       "names:" [
-                           "monikfactory"
-                           "HBM"
-                       ]
                     }
                 ]
             },
@@ -155,7 +149,7 @@
                         ]
                     },
                     {
-                        "title": "################ Supplier",
+                        "title": "--------------- Supplier",
                         "names": [
                             "Walter"
                         ]
@@ -327,7 +321,7 @@
                         ]
                     },
                     {
-                        "title": "Transgender Awareness Representative",
+                        "title": "#Transgender Awareness Representative#",
                         "names": [
                             "monikfactory"
                         ]
