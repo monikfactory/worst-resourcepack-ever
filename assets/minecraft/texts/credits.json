@@ -51,7 +51,7 @@
                     {
                         "title": "monikfactory",
                         "names": [
-                            "Monika S. Factory"
+                            "Monika S. Factorial"
                         ]
                     },
                     {
@@ -69,7 +69,7 @@
                         ]
                     },
                     {
-                        "title": "Resourcepack cover",
+                        "title": "Resourcepack covers",
                         "names": [
                             "monikfactory",
                             "40minutes on GIMP"
@@ -105,7 +105,7 @@
                 "discipline": "More of something",
                 "titles": [
                     {
-                        "title": "Enemy heads on backwards idea",
+                        "title": "Blame this person for every ore being copper",
                         "names": [
                             "Shiny (Lily)"
                         ]
@@ -125,13 +125,13 @@
                         ]
                     },
                     {
-                        "title": "Community Manager",
+                        "title": "Recipe editor",
                         "names": [
                             "monikfactory"
                         ]
                     },
                     {
-                        "title": "The idea to put NuclearCraft in",
+                        "title": "The idea to put a nuclear reactor in",
                         "names": [
                             "monikfactory"
                         ]
@@ -169,7 +169,8 @@
                     {
                         "title": "War Bonds",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "Some Sound Artist at Gearbox"
                         ]
                     },
                     {
@@ -191,7 +192,7 @@
                         ]
                     },
                     {
-                        "title": "Narrative Editor",
+                        "title": "Questline Design Expert",
                         "names": [
                             "monifactory"
                         ]
@@ -274,9 +275,10 @@
                         ]
                     },
                     {
-                        "title": "Software Engineer",
+                        "title": "Nuclear Physicists",
                         "names": [
-                            "monikfactory"
+                            "monikfactory",
+                            "HBM the Bobcat"
                         ]
                     }
                 ]
@@ -336,217 +338,193 @@
                         "title": "Atomic bomb",
                         "names": [
                             "monikfactory",
-                            "Robert Oppenheimer"
+                            "Robert Oppenheimer",
+                            "Mekanism devs"
                         ]
                     },
                     {
-                        "title": "",
+                        "title": "Risk of rain",
                         "names": [
-                            "Dennis Ries"
+                            "John Risq o'Reinhart"
                         ]
                     },
                     {
-                        "title": "Executive Producers",
+                        "title": "Special Thanks",
                         "names": [
-                            "Anita Sujarit",
-                            "Chloe Bouxsein",
-                            "Fredrik Telenius",
-                            "Gama Aguilar-Gamez",
-                            "Hai Shi",
-                            "Kayla Kinnunen"
+                            "The people who made my computer",
+                            "Snutt, the former Community Manager at Coffee Stain Studios",
+                            "War and Bonds",
+                            "Thanks",
+                            "HBM, creator of HBM's Nuclear Tech Mod",
+                            "NTM (minecraft modification)"
+                            "NTM in Prague"
                         ]
                     },
                     {
-                        "title": "Production Directors",
+                        "title": "Special anti-thanks",
                         "names": [
-                            "Alina Skripnik",
-                            "Donald Brinkman",
-                            "Eric Taylor",
-                            "Klas Hammarström",
-                            "Kristina M. Ashment",
-                            "Molly Woodruff",
-                            "Todd Stevens",
-                            "Tyler Jeffers (Formosa)",
-                            "Ulrika Silfverstolpe"
+                            "Asbestosis",
+                            "Donald Trump",
+                            "Hewlett Packard",
+                            "The Czech Teacher at my School",
+                            "Any bad person",
+                            "Cocaine",
+                            "Communism",
+                            "NTM (disease)"
                         ]
                     },
                     {
-                        "title": "Principle Producer",
+                        "title": "3-Dimensional Modeller",
                         "names": [
-                            "Nathan Rose"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Production Managers",
+                        "title": "SFX department",
                         "names": [
-                            "Justin Edwards",
-                            "Melinda Knight"
+                            "Monikfactory"
                         ]
                     },
                     {
-                        "title": "Production Leads",
+                        "title": "Leads",
                         "names": [
-                            "Carrie Doring",
-                            "Isabella Balk",
-                            "Micah Myerscough",
-                            "Milo Bengtsson",
-                            "Mona Landh Gullberg",
-                            "Sarah Carton",
-                            "Shah Rahman",
-                            "Sofie Lekkas"
+                            "Lead-202",
+                            "Lead-204",
+                            "Lead-205",
+                            "Lead-206",
+                            "Lead-207",
+                            "Lead-208",
+                            "Lead-210",
+                            "Lead-211",
+                            "Lead-212",
+                            "Lead-214"
                         ]
                     },
                     {
-                        "title": "Producers",
+                        "title": "Moltendown RBMK",
                         "names": [
-                            "Adrian Östergård",
-                            "Allan Contreras (Insight Global, Inc)",
-                            "Anjelika Zora Kosanic",
-                            "Anna Lundgren",
-                            "Annica Strand",
-                            "Bryan G. Bonham",
-                            "Carina Kovacs Lockhart",
-                            "Carlos Naranjo",
-                            "Charlotte Angantyr",
-                            "Charlotte Backer",
-                            "David Iooss (Randstad)",
-                            "David Siegel",
-                            "Dev Hazarika",
-                            "Eliot Lee",
-                            "Emily Steele (Formosa)",
-                            "Gabrielle Riggir",
-                            "Hillary Good (Aquent, LLC)",
-                            "Hugo Lang",
-                            "Jeffrey Carlo (Apex Systems, Inc)",
-                            "Jennifer Dotson (Insight Global, Inc)",
-                            "Jillian Brown (TEKsystems, Inc)",
-                            "Johan Grunden",
-                            "Jonas Olaussen",
-                            "Josefin Olsson",
-                            "Kara Kono",
-                            "Kat Siegert (Insight Global, Inc)",
-                            "Katie Ellison",
-                            "Kyle Lawton",
-                            "Laylah Bulman",
-                            "Lina Hagman",
-                            "Linda Dalin",
-                            "Lisa Kempe",
-                            "Luis Qiang Liu",
-                            "Marc Watson",
-                            "Marcus Bodin",
-                            "Marie Bustgaard Granlund",
-                            "Marie Stålkrantz",
-                            "Micael Sjölund",
-                            "Negin Javanmardi",
-                            "Nicolette Suraga",
-                            "Nikoo Jorjani",
-                            "Patrik Hamsten",
-                            "Petter Denninger",
-                            "Pontus Åselius",
-                            "Rachel Ji",
-                            "Riccardo Lenzi",
-                            "Roger Duke (Insight Global, Inc)",
-                            "Seo Hee Hong",
-                            "Sofie Lundberg",
-                            "Tess Kearney (Formosa)",
-                            "Tia Dalupan-Wong",
-                            "Tim Mardell",
-                            "Tina Lin (Collabera, LLC)",
-                            "Todd Baldwin"
+                            "Evil and Intimidating RBMK",
+                            "Yes, I played NTM and named every reactor and",
+                            "that is how i named the RBMK",
+                            "which later exploded from lack of cooling",
+                            "Because i put in fuel rods that got too hot too fast",
+                            "and my turbines couldn't turbine fast enough",
+                            "That RBMK was quite Evil and Intimidating..."
                         ]
                     },
                     {
                         "title": "Media Producer",
                         "names": [
-                            "Johan Kvarnemo"
+                            "monikfactory"
                         ]
                     },
                     {
                         "title": "Product Manager Leads",
                         "names": [
-                            "Candice Giffin",
-                            "Justin Johnson",
-                            "Mike Ammerlaan"
+                            "monikfactory",
+                            "Lead-204",
+                            "Lead-210"
                         ]
                     },
                     {
-                        "title": "Product Managers",
+                        "title": "Half Life",
                         "names": [
-                            "Andrea Lam-Flannery",
-                            "Barbara Konchinski",
-                            "Donyea Cooley-White",
-                            "Kari C Whiteside",
-                            "Madeline Psenka",
-                            "Stephen A Scott",
-                            "Su Liu"
+                            "JOHN CARMARCK, THE GUY WHO MADE DOOM, ACTUALLY",
+                            "Michael Abrash",
+                            "John Cash, inventor of cash",
+                            "JOHN ROMERO, GUY WHO ALSO MADE DOOM",
+                            "Those four above were from id software so that makes sense"
+                            "Marc Laidlaw",
+                            "Ken Birdwell",
+                            "Jay Stelly",
+                            "Kelly Bailey",
+                            "Ted Backman",
+                            "T.K. Backman",
+                            "Yahn Bernier",
+                            "Stebe Bond",
+                            "Dario Casali",
+                            "John Cook",
+                            "Greg Coomer, real name",
+                            "Wesly Cumberland",
+                            "John Guthrie",
+                            "Mona Lisa Guthrie, holy shit",
+                            "Mike Harrington",
+                            "Monica Harrington, not me",
+                            "Brett Johnson",
+                            "Chuck Jones",
+                            "Karen Luar",
+                            "Randy Lundeen",
+                            "Yatsze Mark",
+                            "Lisa Mennet",
+                            "Gabe Newell",
+                            "David Riller",
+                            "Aaron Stackpole",
+                            "Jay Stelly",
+                            "Harry E Teasley",
+                            "Stephen Theodore",
+                            "Bill Van Buren",
+                            "Robin Walker",
+                            "Douglas R. Wood"
                         ]
                     },
                     {
-                        "title": "Organizational Coaches",
+                        "title": "Organizational Coach",
                         "names": [
-                            "Jonas Ekstrand",
-                            "Karin Hagren",
-                            "Sasa Stamenkovic"
+                            "monikfactory"
                         ]
                     },
                     {
                         "title": "Release Management Lead",
                         "names": [
-                            "David Fries"
+                            "Lead-214"
                         ]
                     },
                     {
-                        "title": "Release Managers",
+                        "title": "HBM's Nuclear Tech Mod",
                         "names": [
-                            "Andrew Pritchard",
-                            "Beth Murphy (Kforce)",
-                            "Joseph Panaccione (Apex Systems, Inc)",
-                            "Josh Mulanax",
-                            "Joshua Bullard"
+                            "HBM"
                         ]
                     },
                     {
-                        "title": "Technical Writers",
+                        "title": "People who were Organizationally Coached",
                         "names": [
-                            "Jill Headen (Insight Global, Inc)",
-                            "Jim Seaman (Insight Global, Inc)",
-                            "Maxwell Moeller (Simplicity Consulting, Inc)"
+                            "monikfactory"
                         ]
                     },
                     {
-                        "title": "Technical Program Managers",
+                        "title": "Worldbuilding",
                         "names": [
-                            "Andy Puntahachart",
-                            "Aqsa Rauf (Apex Systems, Inc)",
-                            "Daniel Stewart",
-                            "DJ Stiner",
-                            "Dom Arcamone",
-                            "Dylan Kesselring (Insight Global, Inc)",
-                            "Eloise Espel",
-                            "Erfon Haubenstock (Insight Global, Inc)",
-                            "Heesung Koo",
-                            "Lauren Henderson",
-                            "Quinn Richter",
-                            "Todd Agnello (TEKsystems, Inc)",
-                            "Tori Tippin"
+                            "Architects",
+                            "Atoms",
+                            "Evolution",
+                            "Natural Selection",
+                            "Manufacturors of Microdevices",
+                            "monikfactory",
+                            "World",
+                            "The Big Bang (presumably)",
+                            "Nuclear fusion",
+                            "The Sun",
+                            "People who asphalt the roads",
+                            "Busses",
+                            "Your device that generated the world you played in"
                         ]
                     },
                     {
-                        "title": "Localization",
+                        "title": "Electricity",
                         "names": [
-                            "Amber Wu (Shanghai Wicresoft Co, Ltd.)"
+                            "All the electrons"
                         ]
                     },
                     {
-                        "title": "Playtest Coordinator",
+                        "title": "War Criminals",
                         "names": [
-                            "Ricky White (Randstad)"
+                            ""
                         ]
                     }
                 ]
             },
             {
-                "discipline": "Visual Arts",
+                "discipline": "Rest of Mojang because i ran out of stuff to put",
                 "titles": [
                     {
                         "title": "Creative Leads",
