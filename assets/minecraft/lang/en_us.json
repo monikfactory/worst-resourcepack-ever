@@ -3744,7 +3744,7 @@
   "item.minecraft.howl_pottery_shard": "Howl Pottery Shard",
   "item.minecraft.howl_pottery_sherd": "Howl Pottery Sherd",
   "item.minecraft.husk_spawn_egg": "Husk Spawn Egg",
-  "item.minecraft.ink_sac": "Ink Sac",
+  "item.minecraft.ink_sac": "Ink Sak",
   "item.minecraft.iron_axe": "Coppern't Axe",
   "item.minecraft.iron_boots": "Coppern't Boots",
   "item.minecraft.iron_chestplate": "Coppern't Chestplate",
@@ -3834,7 +3834,7 @@
   "item.minecraft.music_disc_far.desc": "The Elder Scrolls IV: Oblivion - Harvest Dawn (NPC mix)",
   "item.minecraft.music_disc_mall": "Music Disc",
   "item.minecraft.music_disc_mall.desc": "Ivo \"Eggman\" Robotnik - Announcement ",
-  "item.minecraft.music_disc_mellohi": "Music Disc",
+  "item.minecraft.music_disc_mellohi": "Siren Tape",
   "item.minecraft.music_disc_mellohi.desc": "Nuclear Siren",
   "item.minecraft.music_disc_otherside": "Music Disc",
   "item.minecraft.music_disc_otherside.desc": "Lena Risk of Raine - otherside",
@@ -3849,7 +3849,7 @@
   "item.minecraft.music_disc_wait": "Music Disc",
   "item.minecraft.music_disc_wait.desc": "Lena Risk of Raine - Pigstep",
   "item.minecraft.music_disc_ward": "Music Disc",
-  "item.minecraft.music_disc_ward.desc": "Lena Risk of Raine - Pigstep",
+  "item.minecraft.music_disc_ward.desc": "Portal Radio",
   "item.minecraft.mutton": "Raw Mutton",
   "item.minecraft.name_tag": "Name Tag",
   "item.minecraft.nautilus_shell": "Nautilus Shell",
@@ -6427,10 +6427,10 @@
   "sign.type2.line3": "Pipebomb",
   "sign.type2.line4": "Under Here",
 
-  "sign.type3.line1": "",
-  "sign.type3.line2": "I see you.",
-  "sign.type3.line3": "",
-  "sign.type3.line4": "",
+  "sign.type3.line1": "But 1 time, his",
+  "sign.type3.line2": "bro was watching ",
+  "sign.type3.line3": "And his brother",
+  "sign.type3.line4": "loved worms.",
 
   "sign.type4.line1": "",
   "sign.type4.line2": "Hello there,",
@@ -6457,15 +6457,15 @@
   "sign.type8.line3": "too?",
   "sign.type8.line4": "MALACHITE",
 
-  "sign.type9.line1": "WEAK,",
-  "sign.type9.line2": "WITHOUT YOUR",
-  "sign.type9.line3": "BAUBLES",
-  "sign.type9.line4": "AND TRINKETS",
+  "sign.type9.line1": "WEAK, WITHOUT",
+  "sign.type9.line2": "YOUR BAUBLES",
+  "sign.type9.line3": "AND TRINKETS",
+  "sign.type9.line4": "    -MITHRIX",
 
-  "sign.type10.line1": "",
-  "sign.type10.line2": "Do I frighten",
-  "sign.type10.line3": "you?",
-  "sign.type10.line4": "",
+  "sign.type10.line1": "GLUE,... GLUE",
+  "sign.type10.line2": "ON THE ROACH BRO",
+  "sign.type10.line3": "GLUE,... GLUE",
+  "sign.type10.line4": "ON THE ROACH BABY",
 
   "sign.type11.line1": "",
   "sign.type11.line2": "You can't escape",
@@ -6533,27 +6533,27 @@
   "advancements.ftf.didnt_notice_herobrine.title": "He's Watching...",
   "advancements.ftf.didnt_notice_herobrine.description": "Get stalked by Herobrine without noticing.",
 
-  "advancements.ftf.survive_3_days.title": "Is Someone Following Me?",
+  "advancements.ftf.survive_3_days.title": "WE ARE IN HELL",
   "advancements.ftf.survive_3_days.description": "Survive 3 days.",
 
-  "advancements.ftf.survive_10_days.title": "Someone's Following Me...",
+  "advancements.ftf.survive_10_days.title": "THIS IS HELL",
   "advancements.ftf.survive_10_days.description": "Survive 10 days.",
 
-  "advancements.ftf.survive_50_days.title": "Leave Me Alone.",
+  "advancements.ftf.survive_50_days.title": "WHO ATE MY CABLES",
   "advancements.ftf.survive_50_days.description": "Survive 50 days.",
 
-  "advancements.ftf.survive_100_days.title": "I Have To Hide.",
-  "advancements.ftf.survive_100_days.description": "Survive 100 days.",
+  "advancements.ftf.survive_100_days.title": "THIS IS A LOT LIKE RISK OF RAIN",
+  "advancements.ftf.survive_100_days.description": "Survive 100 days without estrogen",
 
-  "advancements.ftf.survive_200_days.title": "Get Me Out of Here!",
-  "advancements.ftf.survive_200_days.description": "Survive 200 days.",
+  "advancements.ftf.survive_200_days.title": "Average HRT Wait Time",
+  "advancements.ftf.survive_200_days.description": "Survive 200 days without estrogen :<",
 
   "advancements.ftf.found_torch_tunnel.title": "I Am Not Going Down That.",
   "advancements.ftf.found_torch_tunnel.description": "Discover a tunnel dug by Herobrine.",
 
 
 
-  "subtitle.message.warning": "I'm watching...",
+  "subtitle.message.warning": "I'm dying in ror3",
 
 
 

@@ -1,4 +1,353 @@
 {
+  "item.goat_horn.sound.0": {
+    "sounds": [
+      "item/goat_horn/announcement"
+    ],
+    "replace": true
+  },
+    "music.credits": {
+    "sounds": [
+      {
+        "name": "music/game/end/e2m3",
+        "stream": true
+      }
+    ]
+  },
+  "music.dragon": {
+    "sounds": [
+      {
+        "name": "music/game/end/mithrix",
+        "stream": true
+      }
+    ]
+  },
+  "music.end": {
+    "sounds": [
+      {
+        "name": "music/game/end/end",
+        "stream": true
+      },
+      {
+        "name": "music/game/end/17",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.game": {
+    "sounds": [
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/skyrim",
+        "stream": true
+      },
+      {
+        "name": "music/game/coalescence",
+        "stream": true
+      },
+      {
+        "name": "music/game/calm3",
+        "stream": true
+      },
+      {
+        "name": "music/game/comforting_memories",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/floating_dream",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/hal1",
+        "stream": true
+      },
+      {
+        "name": "music/game/glueontheroach",
+        "stream": true
+      },
+      {
+        "name": "music/game/hal3",
+        "stream": true
+      },
+      {
+        "name": "music/game/t2000intro",
+        "stream": true
+      },
+      {
+        "name": "music/game/left_to_bloom",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/nuance1",
+        "stream": true
+      },
+      {
+        "name": "music/game/nuance2",
+        "stream": true
+      },
+      {
+        "name": "music/game/one_more_day",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/piano1",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano2",
+        "stream": true
+      },
+      {
+        "name": "music/game/piano3",
+        "stream": true
+      },
+      {
+        "name": "music/game/summit",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "sounds": [
+      {
+        "name": "music/game/a_familiar_room",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/bromeliad",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/crescent_dunes",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/game/echo_in_the_wind",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "music/menu/menew",
+        "stream": true
+      },
+      {
+        "name": "music/menu/crazybus",
+        "stream": true
+      },
+      {
+        "name": "music/menu/glueontheroach",
+        "stream": true
+      },
+      {
+        "name": "music/menu/twister",
+        "stream": true
+      },
+      {
+       "name": "music/menu/tetris",
+       "stream": true
+      },
+      {
+       "name": "music/menu/celeste",
+       "stream": true
+      }
+    ]
+  },
+
+  "entity.generic.eat": {
+    "sounds": [
+      "random/glue",
+      "random/squeak",
+      "random/doomguy",
+      "random/vineboom",
+      "random/pipe",
+      "random/bttb",
+      "random/satisfactory",
+      "random/xmult",
+      "random/pmult",
+      "random/chip",
+      "random/rordeath"
+    ],
+    "replace": true
+  },
+
+    "music_disc.11": {
+    "sounds": [
+      {
+        "name": "records/countries",
+        "stream": true,
+        "volume": 1.5
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.5": {
+    "sounds": [
+      {
+        "name": "records/5",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.blocks": {
+    "sounds": [
+      {
+        "name": "records/glueontheroach",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/wavedash",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.chirp": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.far": {
+    "sounds": [
+      {
+        "name": "records/skyrim",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.mall": {
+    "sounds": [
+      {
+        "name": "records/announcement",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.mellohi": {
+    "sounds": [
+      {
+        "name": "records/siren",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.otherside": {
+    "sounds": [
+      {
+        "name": "records/otherside",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.pigstep": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.relic": {
+    "sounds": [
+      {
+        "name": "records/relic",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.stal": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.strad": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.wait": {
+    "sounds": [
+      {
+        "name": "records/pigstep",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "music_disc.ward": {
+    "sounds": [
+      {
+        "name": "records/portal",
+        "stream": true
+      }
+    ]
+  },
+  "entity.player.levelup": {
+    "sounds": [ {
+      "name": "random/levelup",
+      "weight": 10
+      },
+      {
+      "name": "random/glueontheroach",
+      "stream": true
+      }
+    ],
+    "replace": true
+  },
+
+  "item.spyglass.use":{
+   "sounds":[
+     {
+       "name":"item/spyglass/funny",
+       "volume":0.8
+       }
+      ],
+    "replace":true
+  },
+
   "ambient.basalt_deltas.additions": {
     "sounds": [
       {
@@ -1026,9 +1375,9 @@
   },
   "block.anvil.destroy": {
     "sounds": [
-      "random/anvil_break"
+      "random/pipe"
     ],
-    "subtitle": "subtitles.block.anvil.destroy"
+    "replace": true
   },
   "block.anvil.fall": {
     "sounds": [
@@ -1053,32 +1402,27 @@
   },
   "block.anvil.land": {
     "sounds": [
-      "random/anvil_land"
+      "random/pipe"
     ],
-    "subtitle": "subtitles.block.anvil.land"
+    "replace": true
   },
   "block.anvil.place": {
     "sounds": [
-      "random/anvil_land"
+      "random/pipe"
     ],
-    "subtitle": "subtitles.block.generic.place"
+    "replace": true
   },
   "block.anvil.step": {
     "sounds": [
-      "step/stone1",
-      "step/stone2",
-      "step/stone3",
-      "step/stone4",
-      "step/stone5",
-      "step/stone6"
+      "random/pipe"
     ],
-    "subtitle": "subtitles.block.generic.footsteps"
+    "replace": true
   },
   "block.anvil.use": {
     "sounds": [
-      "random/anvil_use"
+      "random/pipe"
     ],
-    "subtitle": "subtitles.block.anvil.use"
+    "replace": true
   },
   "block.azalea.break": {
     "sounds": [
@@ -4237,10 +4581,10 @@
   },
   "block.end_gateway.spawn": {
     "sounds": [
-      "random/explode1",
-      "random/explode2",
-      "random/explode3",
-      "random/explode4"
+      "random/nuclear",
+      "random/rbmk",
+      "random/explosionL",
+      "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
   },
@@ -11663,10 +12007,10 @@
   },
   "entity.dragon_fireball.explode": {
     "sounds": [
-      "random/explode1",
-      "random/explode2",
-      "random/explode3",
-      "random/explode4"
+      "random/nuclear",
+      "random/rbmk",
+      "random/explosionL",
+      "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
   },
@@ -12098,33 +12442,35 @@
   },
   "entity.experience_orb.pickup": {
     "sounds": [
-      "random/orb"
+      "random/money"
     ],
     "subtitle": "subtitles.entity.experience_orb.pickup"
   },
   "entity.firework_rocket.blast": {
     "sounds": [
-      "fireworks/blast1"
+      "fireworks/explosion"
     ],
-    "subtitle": "subtitles.entity.firework_rocket.blast"
+    "replace": true
   },
   "entity.firework_rocket.blast_far": {
     "sounds": [
-      "fireworks/blast_far1"
+      "fireworks/shotgun"
     ],
-    "subtitle": "subtitles.entity.firework_rocket.blast"
+    "replace": true
   },
   "entity.firework_rocket.large_blast": {
-    "sounds": [
-      "fireworks/largeblast1"
+    "sounds": [ {
+      "name": "fireworks/nuclearexplosion",
+      "stream": true
+      }
     ],
-    "subtitle": "subtitles.entity.firework_rocket.blast"
+    "replace": true
   },
   "entity.firework_rocket.large_blast_far": {
     "sounds": [
-      "fireworks/largeblast_far1"
+      "fireworks/explosion"
     ],
-    "subtitle": "subtitles.entity.firework_rocket.blast"
+    "replace": true
   },
   "entity.firework_rocket.launch": {
     "sounds": [
@@ -12601,30 +12947,24 @@
     "sounds": [
       "damage/hit1",
       "damage/hit2",
-      "damage/hit3"
+      "damage/hit3",
+      "random/rordeath"
     ],
     "subtitle": "subtitles.entity.generic.death"
   },
   "entity.generic.drink": {
     "sounds": [
-      "random/drink"
+      "random/drink",
+      "random/pipe"
     ],
     "subtitle": "subtitles.entity.generic.drink"
   },
-  "entity.generic.eat": {
-    "sounds": [
-      "random/eat1",
-      "random/eat2",
-      "random/eat3"
-    ],
-    "subtitle": "subtitles.entity.generic.eat"
-  },
   "entity.generic.explode": {
     "sounds": [
-      "random/explode1",
-      "random/explode2",
-      "random/explode3",
-      "random/explode4"
+      "random/nuclear",
+      "random/rbmk",
+      "random/explosionL",
+      "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
   },
@@ -12638,7 +12978,8 @@
     "sounds": [
       "damage/hit1",
       "damage/hit2",
-      "damage/hit3"
+      "damage/hit3",
+      "random/doomguy"
     ],
     "subtitle": "subtitles.entity.generic.hurt"
   },
@@ -13713,7 +14054,7 @@
   },
   "entity.item.break": {
     "sounds": [
-      "random/break"
+      "random/malachite"
     ],
     "subtitle": "subtitles.entity.item.break"
   },
@@ -13785,10 +14126,10 @@
   },
   "entity.lightning_bolt.impact": {
     "sounds": [
-      "random/explode1",
-      "random/explode2",
-      "random/explode3",
-      "random/explode4"
+      "random/nuclear",
+      "random/rbmk",
+      "random/explosionL",
+      "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.lightning_bolt.impact"
   },
@@ -15544,12 +15885,6 @@
       "entity/player/hurt/berrybush_hurt2"
     ],
     "subtitle": "subtitles.entity.player.hurt"
-  },
-  "entity.player.levelup": {
-    "sounds": [
-      "random/levelup"
-    ],
-    "subtitle": "subtitles.entity.player.levelup"
   },
   "entity.player.small_fall": {
     "sounds": [
@@ -19178,12 +19513,6 @@
     ],
     "subtitle": "subtitles.item.glow_ink_sac.use"
   },
-  "item.goat_horn.sound.0": {
-    "sounds": [
-      "item/goat_horn/call0"
-    ],
-    "subtitle": "subtitles.item.goat_horn.play"
-  },
   "item.goat_horn.sound.1": {
     "sounds": [
       "item/goat_horn/call1"
@@ -19415,7 +19744,7 @@
   },
   "item.shield.break": {
     "sounds": [
-      "random/break"
+      "random/malachite"
     ],
     "subtitle": "subtitles.entity.item.break"
   },
@@ -19446,31 +19775,6 @@
       }
     ],
     "subtitle": "subtitles.item.spyglass.stop_using"
-  },
-  "item.spyglass.use": {
-    "sounds": [
-      {
-        "name": "item/spyglass/use",
-        "pitch": 1.15,
-        "volume": 0.5
-      },
-      {
-        "name": "item/spyglass/use",
-        "pitch": 1.33,
-        "volume": 0.5
-      },
-      {
-        "name": "item/spyglass/use",
-        "pitch": 1.4,
-        "volume": 0.5
-      },
-      {
-        "name": "item/spyglass/use",
-        "pitch": 1.55,
-        "volume": 0.5
-      }
-    ],
-    "subtitle": "subtitles.item.spyglass.use"
   },
   "item.totem.use": {
     "sounds": [
@@ -19618,151 +19922,7 @@
       }
     ]
   },
-  "music.credits": {
-    "sounds": [
-      {
-        "name": "music/game/end/credits",
-        "stream": true
-      }
-    ]
-  },
-  "music.dragon": {
-    "sounds": [
-      {
-        "name": "music/game/end/boss",
-        "stream": true
-      }
-    ]
-  },
-  "music.end": {
-    "sounds": [
-      {
-        "name": "music/game/end/end",
-        "stream": true
-      }
-    ]
-  },
-  "music.game": {
-    "sounds": [
-      {
-        "name": "music/game/a_familiar_room",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/calm1",
-        "stream": true
-      },
-      {
-        "name": "music/game/calm2",
-        "stream": true
-      },
-      {
-        "name": "music/game/calm3",
-        "stream": true
-      },
-      {
-        "name": "music/game/comforting_memories",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/floating_dream",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/hal1",
-        "stream": true
-      },
-      {
-        "name": "music/game/hal2",
-        "stream": true
-      },
-      {
-        "name": "music/game/hal3",
-        "stream": true
-      },
-      {
-        "name": "music/game/hal4",
-        "stream": true
-      },
-      {
-        "name": "music/game/left_to_bloom",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/nuance1",
-        "stream": true
-      },
-      {
-        "name": "music/game/nuance2",
-        "stream": true
-      },
-      {
-        "name": "music/game/one_more_day",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/piano1",
-        "stream": true
-      },
-      {
-        "name": "music/game/piano2",
-        "stream": true
-      },
-      {
-        "name": "music/game/piano3",
-        "stream": true
-      }
-    ]
-  },
-  "music.menu": {
-    "sounds": [
-      {
-        "name": "music/game/a_familiar_room",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/bromeliad",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/crescent_dunes",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/game/echo_in_the_wind",
-        "stream": true,
-        "volume": 0.4
-      },
-      {
-        "name": "music/menu/menu1",
-        "stream": true
-      },
-      {
-        "name": "music/menu/menu2",
-        "stream": true
-      },
-      {
-        "name": "music/menu/menu3",
-        "stream": true
-      },
-      {
-        "name": "music/menu/menu4",
-        "stream": true
-      },
-      {
-       "name": "music/menu/menu5",
-       "stream": true
-      }
-    ]
-  },
+
   "music.nether.basalt_deltas": {
     "sounds": [
       {
@@ -20766,134 +20926,6 @@
         "name": "music/game/water/shuniji",
         "stream": true,
         "volume": 0.4
-      }
-    ]
-  },
-  "music_disc.11": {
-    "sounds": [
-      {
-        "name": "records/11",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.13": {
-    "sounds": [
-      {
-        "name": "records/13",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.5": {
-    "sounds": [
-      {
-        "name": "records/5",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.blocks": {
-    "sounds": [
-      {
-        "name": "records/blocks",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.cat": {
-    "sounds": [
-      {
-        "name": "records/cat",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.chirp": {
-    "sounds": [
-      {
-        "name": "records/chirp",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.far": {
-    "sounds": [
-      {
-        "name": "records/far",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.mall": {
-    "sounds": [
-      {
-        "name": "records/mall",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.mellohi": {
-    "sounds": [
-      {
-        "name": "records/mellohi",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.otherside": {
-    "sounds": [
-      {
-        "name": "records/otherside",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.pigstep": {
-    "sounds": [
-      {
-        "name": "records/pigstep",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.relic": {
-    "sounds": [
-      {
-        "name": "records/relic",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.stal": {
-    "sounds": [
-      {
-        "name": "records/stal",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.strad": {
-    "sounds": [
-      {
-        "name": "records/strad",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.wait": {
-    "sounds": [
-      {
-        "name": "records/wait",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.ward": {
-    "sounds": [
-      {
-        "name": "records/ward",
-        "stream": true
       }
     ]
   },
