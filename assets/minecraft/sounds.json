@@ -1,4 +1,25 @@
 {
+  "entity.generic.eat": {
+  "replace": true,
+    "sounds": [
+        "minecraft:random/glue",
+        "random/xmult",
+        "random/pmult",
+        {
+        "name": "random/squeak",
+        "volume": 1
+        },
+        "random/doomguy",
+        "random/vineboom",
+        "random/pipe",
+        "random/bttb",
+        "random/satisfactory",
+        "random/xmult",
+        "random/pmult",
+        "random/chip",
+        "random/rordeath"
+    ]
+  },
   "item.goat_horn.sound.0": {
     "sounds": [
       "item/goat_horn/announcement"
@@ -162,23 +183,6 @@
        "stream": true
       }
     ]
-  },
-
-  "entity.generic.eat": {
-    "sounds": [
-      "random/glue",
-      "random/squeak",
-      "random/doomguy",
-      "random/vineboom",
-      "random/pipe",
-      "random/bttb",
-      "random/satisfactory",
-      "random/xmult",
-      "random/pmult",
-      "random/chip",
-      "random/rordeath"
-    ],
-    "replace": true
   },
 
     "music_disc.11": {
@@ -4583,7 +4587,7 @@
     "sounds": [
       "random/nuclear",
       "random/rbmk",
-      "random/explosionL",
+      "random/lexplo",
       "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
@@ -12009,7 +12013,7 @@
     "sounds": [
       "random/nuclear",
       "random/rbmk",
-      "random/explosionL",
+      "random/lexplo",
       "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
@@ -12963,7 +12967,7 @@
     "sounds": [
       "random/nuclear",
       "random/rbmk",
-      "random/explosionL",
+      "random/lexplo",
       "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.generic.explode"
@@ -14128,7 +14132,7 @@
     "sounds": [
       "random/nuclear",
       "random/rbmk",
-      "random/explosionL",
+      "random/lexplo",
       "random/voidimplosion"
     ],
     "subtitle": "subtitles.entity.lightning_bolt.impact"
