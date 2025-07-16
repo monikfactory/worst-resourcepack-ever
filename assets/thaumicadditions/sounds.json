@@ -1,0 +1,14 @@
+{
+	"dig.glasswood": { "category": "master", "sounds":["dig/glasswood1", "dig/glasswood2", "dig/glasswood3", "dig/glasswood4"] },
+	"step.glasswood": { "category": "master", "sounds":["step/glasswood1", "step/glasswood2", "step/glasswood3", "step/glasswood4", "step/glasswood5", "step/glasswood6"] },
+	"singularity": { "category": "master", "sounds":["singularity"] },
+	"seal_symbol_set": { "category": "master", "sounds":["seal_symbol_set"] },
+	"infuser": { "category": "master", "sounds":["infuser"] },
+	"voidchestopen": { "category": "master", "sounds":["voidopen"] },
+	"voidchestclose": { "category": "master", "sounds":["voidclose"] },
+	"portalopen": { "category": "master", "sounds":["popen"] },
+	"portalclose": { "category": "master", "sounds":["pclose"] },
+	"tinkering": { "category": "master", "sounds":["tinkering"] },
+	"bubbling": { "category": "master", "sounds":["bubbling"] },
+	"Hallelujah": { "category": "master", "sounds":["Hallelujah"] }
+}
